@@ -1,0 +1,201 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,MonthlyCharges,Churn,TotalCharges
+CUST1000,Male,0,No,Yes,29,No,No,118.48,Yes,3435.92
+CUST1001,Female,1,No,No,16,Yes,No,103.89,Yes,1662.24
+CUST1002,Male,0,Yes,No,61,No,Fiber optic,32.47,No,1980.67
+CUST1003,Male,0,Yes,No,12,No,Fiber optic,112.08,Yes,1344.96
+CUST1004,Male,1,No,Yes,58,No,DSL,106.99,Yes,6205.42
+CUST1005,Female,0,No,Yes,18,Yes,Fiber optic,71.88,No,1293.84
+CUST1006,Male,1,No,Yes,48,No,Fiber optic,79.13,Yes,3798.24
+CUST1007,Male,1,No,No,11,No,No,59.9,No,658.9
+CUST1008,Male,1,No,No,60,Yes,Fiber optic,25.48,No,1528.8
+CUST1009,Female,0,No,No,18,No,DSL,53.52,No,963.36
+CUST1010,Male,0,Yes,Yes,8,Yes,Fiber optic,100.29,Yes,802.32
+CUST1011,Male,0,No,No,70,No,No,20.46,Yes,1432.2
+CUST1012,Male,0,No,No,27,Yes,No,53.35,Yes,1440.45
+CUST1013,Male,0,Yes,No,51,Yes,Fiber optic,59.82,No,3050.82
+CUST1014,Female,0,Yes,No,15,No,No,73.74,Yes,1106.1
+CUST1015,Male,0,Yes,Yes,68,Yes,DSL,111.99,No,7615.32
+CUST1016,Female,1,Yes,Yes,11,Yes,DSL,54.63,No,600.93
+CUST1017,Female,0,No,No,24,Yes,Fiber optic,54.7,Yes,1312.8
+CUST1018,Female,1,No,Yes,51,Yes,Fiber optic,93.75,No,4781.25
+CUST1019,Male,0,No,Yes,52,Yes,Fiber optic,65.22,Yes,3391.44
+CUST1020,Female,0,No,No,22,Yes,No,42.46,Yes,934.12
+CUST1021,Male,0,No,No,15,No,DSL,65.24,Yes,978.6
+CUST1022,Female,1,No,Yes,56,Yes,DSL,34.09,Yes,1909.04
+CUST1023,Female,1,Yes,No,38,Yes,No,37.64,Yes,1430.32
+CUST1024,Female,1,No,Yes,52,No,DSL,69.84,No,3631.68
+CUST1025,Female,1,Yes,No,41,No,Fiber optic,61.89,No,2537.49
+CUST1026,Female,0,Yes,Yes,57,No,Fiber optic,111.48,No,6354.36
+CUST1027,Female,1,No,No,38,No,Fiber optic,56.24,Yes,2137.12
+CUST1028,Female,0,Yes,Yes,13,No,DSL,78.06,Yes,1014.78
+CUST1029,Female,0,No,Yes,4,No,Fiber optic,83.23,Yes,332.92
+CUST1030,Male,1,Yes,Yes,34,No,No,21.31,No,724.54
+CUST1031,Male,1,No,No,17,Yes,No,86.35,Yes,1467.95
+CUST1032,Female,1,Yes,Yes,8,Yes,DSL,37.8,No,302.4
+CUST1033,Female,1,No,Yes,57,No,No,116.11,No,6618.27
+CUST1034,Female,1,No,No,16,Yes,No,34.87,Yes,557.92
+CUST1035,Male,1,No,No,6,Yes,DSL,61.46,Yes,368.76
+CUST1036,Female,1,No,Yes,45,Yes,Fiber optic,28.53,No,1283.85
+CUST1037,Male,1,No,Yes,12,No,Fiber optic,119.69,Yes,1436.28
+CUST1038,Male,0,Yes,No,39,No,Fiber optic,70.22,No,2738.58
+CUST1039,Male,1,Yes,No,41,Yes,DSL,79.54,Yes,3261.14
+CUST1040,Male,1,Yes,No,8,No,No,26.71,Yes,213.68
+CUST1041,Male,0,No,No,49,Yes,Fiber optic,95.0,No,4655.0
+CUST1042,Female,1,Yes,No,26,Yes,Fiber optic,40.99,Yes,1065.74
+CUST1043,Female,0,No,Yes,65,Yes,DSL,109.81,No,7137.65
+CUST1044,Female,0,No,No,4,Yes,Fiber optic,40.51,Yes,162.04
+CUST1045,Female,1,Yes,Yes,28,No,DSL,39.07,No,1093.96
+CUST1046,Female,0,Yes,Yes,36,No,No,23.65,No,851.4
+CUST1047,Male,0,No,Yes,37,No,DSL,67.21,Yes,2486.77
+CUST1048,Female,0,Yes,No,7,Yes,DSL,76.48,No,535.36
+CUST1049,Female,0,No,Yes,64,No,DSL,26.57,Yes,1700.48
+CUST1050,Male,1,No,Yes,16,Yes,DSL,97.55,Yes,1560.8
+CUST1051,Female,0,No,No,70,No,No,65.33,Yes,4573.1
+CUST1052,Male,1,No,Yes,44,Yes,No,72.44,No,3187.36
+CUST1053,Female,0,No,Yes,3,Yes,Fiber optic,64.08,No,192.24
+CUST1054,Male,0,Yes,No,35,Yes,No,60.08,Yes,2102.8
+CUST1055,Female,0,Yes,Yes,69,No,No,75.96,Yes,5241.24
+CUST1056,Female,0,No,Yes,30,No,Fiber optic,35.52,No,1065.6
+CUST1057,Male,1,No,Yes,18,No,No,38.19,Yes,687.42
+CUST1058,Male,1,Yes,No,60,No,DSL,106.18,Yes,6370.8
+CUST1059,Male,0,Yes,No,53,Yes,DSL,114.61,No,6074.33
+CUST1060,Male,0,No,No,38,No,Fiber optic,57.33,Yes,2178.54
+CUST1061,Male,1,Yes,Yes,18,No,Fiber optic,47.07,No,847.26
+CUST1062,Male,0,No,Yes,38,Yes,Fiber optic,84.4,Yes,3207.2
+CUST1063,Male,0,Yes,No,66,Yes,DSL,60.87,No,4017.42
+CUST1064,Male,0,No,Yes,44,Yes,No,22.54,Yes,991.76
+CUST1065,Female,1,Yes,Yes,12,No,DSL,35.62,Yes,427.44
+CUST1066,Female,1,No,No,57,Yes,Fiber optic,91.6,No,5221.2
+CUST1067,Male,1,Yes,No,19,Yes,No,85.89,Yes,1631.91
+CUST1068,Female,0,Yes,Yes,71,Yes,No,22.71,No,1612.41
+CUST1069,Female,0,No,Yes,60,No,DSL,42.2,Yes,2532.0
+CUST1070,Female,1,Yes,Yes,38,Yes,Fiber optic,43.11,No,1638.18
+CUST1071,Female,1,No,No,0,No,DSL,87.19,No,0.0
+CUST1072,Male,1,Yes,No,2,No,No,21.97,No,43.94
+CUST1073,Female,1,No,No,61,Yes,DSL,30.41,No,1855.01
+CUST1074,Male,0,Yes,No,62,Yes,DSL,99.99,Yes,6199.38
+CUST1075,Female,1,No,Yes,24,No,Fiber optic,37.85,Yes,908.4
+CUST1076,Female,0,Yes,No,55,Yes,Fiber optic,85.27,No,4689.85
+CUST1077,Female,1,No,No,32,Yes,No,43.82,No,1402.24
+CUST1078,Male,0,Yes,No,37,No,DSL,29.94,No,1107.78
+CUST1079,Female,1,No,No,5,No,DSL,44.32,Yes,221.6
+CUST1080,Male,1,No,No,57,Yes,DSL,92.23,Yes,5257.11
+CUST1081,Female,1,No,Yes,43,No,No,105.57,Yes,4539.51
+CUST1082,Male,1,Yes,Yes,44,Yes,No,103.02,Yes,4532.88
+CUST1083,Female,0,No,No,31,Yes,Fiber optic,59.72,No,1851.32
+CUST1084,Male,1,Yes,Yes,44,Yes,Fiber optic,86.81,No,3819.64
+CUST1085,Male,0,No,No,60,No,Fiber optic,40.5,No,2430.0
+CUST1086,Female,0,Yes,No,46,Yes,DSL,49.31,Yes,2268.26
+CUST1087,Male,0,No,Yes,20,Yes,DSL,109.63,Yes,2192.6
+CUST1088,Female,0,Yes,Yes,35,Yes,Fiber optic,21.3,Yes,745.5
+CUST1089,Female,1,Yes,No,18,No,DSL,28.55,No,513.9
+CUST1090,Female,0,No,No,19,No,Fiber optic,40.79,No,775.01
+CUST1091,Female,0,Yes,No,56,No,No,22.65,Yes,1268.4
+CUST1092,Female,0,Yes,Yes,17,No,Fiber optic,38.14,No,648.38
+CUST1093,Female,1,No,No,46,No,No,78.3,Yes,3601.8
+CUST1094,Female,1,Yes,No,48,Yes,DSL,62.14,Yes,2982.72
+CUST1095,Female,1,Yes,No,13,No,Fiber optic,109.27,No,1420.51
+CUST1096,Female,1,Yes,Yes,14,No,DSL,101.74,Yes,1424.36
+CUST1097,Female,0,No,No,30,No,No,54.18,No,1625.4
+CUST1098,Female,0,Yes,No,0,Yes,No,45.94,Yes,0.0
+CUST1099,Male,1,No,Yes,53,No,No,57.97,No,3072.41
+CUST1100,Male,0,Yes,No,2,No,DSL,79.03,No,158.06
+CUST1101,Female,0,Yes,No,15,Yes,DSL,46.81,No,702.15
+CUST1102,Female,0,Yes,Yes,56,No,DSL,82.41,Yes,4614.96
+CUST1103,Female,1,No,No,11,Yes,DSL,60.94,Yes,670.34
+CUST1104,Female,1,Yes,Yes,15,Yes,No,75.2,No,1128.0
+CUST1105,Female,0,Yes,Yes,71,Yes,No,63.61,No,4516.31
+CUST1106,Female,1,No,No,23,Yes,Fiber optic,49.45,Yes,1137.35
+CUST1107,Female,1,Yes,No,27,Yes,Fiber optic,114.85,Yes,3100.95
+CUST1108,Female,1,No,No,7,No,DSL,96.36,Yes,674.52
+CUST1109,Male,1,No,No,35,Yes,No,34.01,No,1190.35
+CUST1110,Female,1,Yes,Yes,7,Yes,No,106.85,Yes,747.95
+CUST1111,Male,0,No,No,57,No,No,68.74,Yes,3918.18
+CUST1112,Female,1,Yes,Yes,59,Yes,Fiber optic,109.46,No,6458.14
+CUST1113,Female,0,No,No,49,No,Fiber optic,99.99,Yes,4899.51
+CUST1114,Male,0,No,No,27,No,No,62.52,Yes,1688.04
+CUST1115,Female,1,Yes,No,40,No,No,22.25,Yes,890.0
+CUST1116,Male,0,No,Yes,63,Yes,No,46.87,No,2952.81
+CUST1117,Female,0,No,No,26,Yes,Fiber optic,74.16,No,1928.16
+CUST1118,Female,0,No,No,62,Yes,No,83.35,No,5167.7
+CUST1119,Male,1,No,No,16,No,No,45.79,No,732.64
+CUST1120,Female,1,No,No,32,Yes,DSL,33.94,No,1086.08
+CUST1121,Male,0,Yes,Yes,28,Yes,DSL,103.49,No,2897.72
+CUST1122,Female,1,No,No,12,Yes,Fiber optic,118.44,No,1421.28
+CUST1123,Male,1,Yes,Yes,45,No,No,72.57,Yes,3265.65
+CUST1124,Male,1,No,Yes,34,No,No,37.17,Yes,1263.78
+CUST1125,Female,1,Yes,Yes,5,Yes,DSL,47.23,No,236.15
+CUST1126,Female,0,Yes,Yes,68,Yes,Fiber optic,21.84,Yes,1485.12
+CUST1127,Male,0,No,Yes,46,Yes,DSL,111.43,Yes,5125.78
+CUST1128,Female,1,No,Yes,24,Yes,DSL,31.78,No,762.72
+CUST1129,Female,1,No,No,65,No,DSL,77.65,Yes,5047.25
+CUST1130,Female,0,Yes,Yes,9,No,DSL,47.41,Yes,426.69
+CUST1131,Male,0,No,Yes,55,No,No,75.42,Yes,4148.1
+CUST1132,Male,1,Yes,Yes,29,No,No,85.14,Yes,2469.06
+CUST1133,Male,0,Yes,No,4,Yes,DSL,102.97,Yes,411.88
+CUST1134,Male,1,Yes,No,32,Yes,Fiber optic,40.64,No,1300.48
+CUST1135,Male,1,No,Yes,64,Yes,Fiber optic,21.1,No,1350.4
+CUST1136,Male,0,No,No,17,No,Fiber optic,33.69,No,572.73
+CUST1137,Male,0,Yes,Yes,48,Yes,Fiber optic,110.0,Yes,5280.0
+CUST1138,Male,1,Yes,Yes,10,No,DSL,107.39,No,1073.9
+CUST1139,Male,1,No,No,25,No,No,79.74,Yes,1993.5
+CUST1140,Female,0,Yes,Yes,62,Yes,Fiber optic,80.05,Yes,4963.1
+CUST1141,Male,1,No,No,58,Yes,DSL,86.5,Yes,5017.0
+CUST1142,Female,0,Yes,No,26,Yes,Fiber optic,37.54,Yes,976.04
+CUST1143,Female,1,No,Yes,48,No,Fiber optic,111.44,No,5349.12
+CUST1144,Female,0,Yes,Yes,32,Yes,DSL,61.88,No,1980.16
+CUST1145,Male,0,No,No,0,No,No,58.31,Yes,0.0
+CUST1146,Male,0,Yes,Yes,20,Yes,No,71.89,No,1437.8
+CUST1147,Male,1,No,Yes,54,No,DSL,24.7,Yes,1333.8
+CUST1148,Male,1,No,Yes,5,No,No,36.63,No,183.15
+CUST1149,Female,0,Yes,No,68,Yes,DSL,93.8,No,6378.4
+CUST1150,Male,1,Yes,No,4,No,DSL,28.28,Yes,113.12
+CUST1151,Male,0,No,Yes,2,No,DSL,80.32,No,160.64
+CUST1152,Male,0,Yes,No,52,Yes,No,44.53,Yes,2315.56
+CUST1153,Male,1,No,No,22,No,DSL,58.93,No,1296.46
+CUST1154,Male,1,Yes,No,52,Yes,Fiber optic,48.87,Yes,2541.24
+CUST1155,Female,0,No,No,36,No,No,55.57,Yes,2000.52
+CUST1156,Male,1,No,No,16,Yes,No,91.9,No,1470.4
+CUST1157,Female,1,No,Yes,0,Yes,No,49.71,No,0.0
+CUST1158,Male,0,No,Yes,50,No,No,76.64,Yes,3832.0
+CUST1159,Female,0,No,Yes,44,No,Fiber optic,67.61,No,2974.84
+CUST1160,Male,1,No,No,3,No,No,86.37,No,259.11
+CUST1161,Male,0,Yes,No,61,No,No,113.68,Yes,6934.48
+CUST1162,Female,0,Yes,Yes,64,No,DSL,93.26,Yes,5968.64
+CUST1163,Female,1,Yes,No,31,Yes,No,41.49,No,1286.19
+CUST1164,Female,0,No,Yes,33,No,Fiber optic,23.12,Yes,762.96
+CUST1165,Male,0,No,Yes,71,Yes,Fiber optic,46.23,Yes,3282.33
+CUST1166,Female,1,No,Yes,38,Yes,Fiber optic,79.51,Yes,3021.38
+CUST1167,Male,1,No,No,25,No,Fiber optic,25.14,No,628.5
+CUST1168,Male,0,Yes,No,33,Yes,No,69.64,No,2298.12
+CUST1169,Female,0,Yes,Yes,53,Yes,No,79.68,Yes,4223.04
+CUST1170,Female,1,No,Yes,2,Yes,Fiber optic,53.42,No,106.84
+CUST1171,Male,1,Yes,Yes,49,Yes,Fiber optic,97.09,Yes,4757.41
+CUST1172,Male,1,Yes,Yes,11,No,No,30.66,No,337.26
+CUST1173,Female,1,No,No,64,Yes,Fiber optic,27.51,Yes,1760.64
+CUST1174,Female,0,Yes,No,53,No,DSL,92.82,Yes,4919.46
+CUST1175,Female,1,No,Yes,4,No,Fiber optic,69.55,No,278.2
+CUST1176,Male,1,Yes,Yes,56,Yes,Fiber optic,88.84,Yes,4975.04
+CUST1177,Male,0,No,No,16,No,DSL,63.48,No,1015.68
+CUST1178,Male,1,No,No,46,No,DSL,44.64,No,2053.44
+CUST1179,Male,0,No,Yes,22,No,No,101.91,Yes,2242.02
+CUST1180,Male,1,No,Yes,13,Yes,No,99.94,Yes,1299.22
+CUST1181,Male,1,Yes,Yes,65,No,DSL,89.47,No,5815.55
+CUST1182,Female,1,No,No,50,No,DSL,47.21,Yes,2360.5
+CUST1183,Male,0,No,No,37,No,No,79.02,Yes,2923.74
+CUST1184,Male,0,No,No,63,Yes,Fiber optic,56.1,Yes,3534.3
+CUST1185,Male,1,Yes,Yes,37,No,DSL,29.16,Yes,1078.92
+CUST1186,Female,0,No,Yes,49,Yes,No,111.73,Yes,5474.77
+CUST1187,Male,0,Yes,No,29,Yes,Fiber optic,33.68,No,976.72
+CUST1188,Male,0,No,No,50,Yes,DSL,115.02,No,5751.0
+CUST1189,Female,0,Yes,Yes,62,Yes,Fiber optic,64.6,Yes,4005.2
+CUST1190,Male,0,Yes,No,51,Yes,No,38.51,Yes,1964.01
+CUST1191,Male,0,No,No,37,Yes,DSL,74.19,Yes,2745.03
+CUST1192,Male,1,Yes,Yes,29,No,Fiber optic,107.29,No,3111.41
+CUST1193,Male,1,No,No,50,Yes,DSL,93.22,Yes,4661.0
+CUST1194,Male,0,No,Yes,4,No,Fiber optic,100.66,No,402.64
+CUST1195,Female,1,No,Yes,28,No,No,85.88,No,2404.64
+CUST1196,Female,1,Yes,Yes,3,Yes,No,89.23,No,267.69
+CUST1197,Female,1,Yes,Yes,9,No,DSL,104.92,Yes,944.28
+CUST1198,Male,1,No,Yes,55,No,Fiber optic,44.97,No,2473.35
+CUST1199,Male,0,No,Yes,16,No,DSL,68.94,Yes,1103.04
